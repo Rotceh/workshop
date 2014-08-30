@@ -1,2 +1,2 @@
 # ignore abc directory and all .txt
-abc/
+*.txt
