@@ -1,0 +1,2 @@
+# ignore abc directory and all .txt
+*.txt
