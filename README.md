@@ -1,4 +1,4 @@
-
+git diff --cached demo
 workshop
 ==========
 kerker
